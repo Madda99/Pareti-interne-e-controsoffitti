@@ -26,22 +26,31 @@ Ma anche:
 
 Le partizioni trasparenti invece possono suddividersi in:
 2.1- Prefabbricate;
-2.2- In opra.
+2.2- In opera.
 
 1.1.1) PARTIZIONI INTERNE OPACHE FISSE
-
 Dividono in maniera permanente due ambienti o zone di attività.
 In funzione dei procedimenti costruttivi adottati si distinguono:
 - Divisori gettati in opera, ovvero setti portanti in calcestruzzo armato;
 - Divisori realizzati in opera a conci, ovvero conci, blocchi, mattoni pieni/forati o tavelle messe in opera attraverso malta, collante o mastice (necessitano di una finitura su entrambi i lati);
 - Divisori intelaiati (posati in opera “a secco”), ovvero costituiti da un’intelaiatura portante (montanti e traversi) e da elementi piani di chiusura (rivestimento o specchiatura).
-
 Le pareti in cartongesso sono l’esempio più comune di quest’ultima tipologia di partizioni.
 
 1.1.2) PARTIZIONI INTERNE OPACHE SPOSTABILI
-
-Dividono in maniera non permanente due ambienti o zone di attività. Possono essere agevolmente smontate e ricollocate solo con operazioni “a secco”, garantendo quindi flessibilità d’uso dello spazio interno.
-Sono costituite da un’intelaiatura portante leggera e da pannelli modulari. Questi pannelli possono essere opachi-sandwich (doppia specchiatura, in agglomerato ligneo nobilitato o in materiale plastico, più uno strato di isolante acustico) ma anche trasparenti o traslucidi.
+Dividono in maniera non permanente due ambienti o zone di attività.
+Possono essere agevolmente smontate e ricollocate solo con operazioni “a secco”, garantendo quindi flessibilità d’uso dello spazio interno.
+Sono costituite da un’intelaiatura portante leggera e da pannelli modulari.
+Questi pannelli possono essere opachi-sandwich (doppia specchiatura, in agglomerato ligneo nobilitato o in materiale plastico, più uno strato di isolante acustico) ma anche trasparenti o traslucidi.
 Sono dotati di elementi di regolazione e livellamento superiori e inferiori.
 
 1.1.3) PARTIZIONI INTERNE OPACHE MOBILI
+Dividono in maniera temporanea due ambienti o zone di attività, come le pareti spostabili.
+La differenza è che questa tipologia di pareti può essere spostate con maggiore continuità. 
+Possono essere:
+- Scorrevoli (semplici o articolate);
+- Girevoli (a bilico verticale);
+- Avvolgibili (tende o veneziane).
+
+1.1.4) PARTIZIONI INTERNE OPACHE ATTREZZATE
+Dividono due ambienti o zone di attività svolgendo funzioni di contenitore e di arredo.
+Si ispirano a criteri di coordinazione modulare, di facilità di integrazione con le reti impiantistiche, di semplicità di montaggio, smontaggio e ricollocazione, di massima razionalizzazione di spazi e superfici utili e di elevato grado di finitura.
